@@ -1,0 +1,13 @@
+# OpenClaw local state
+.openclaw/
+.clawhub/
+
+# Transient locks / local stores
+skills/.skills_store_lock.json
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
